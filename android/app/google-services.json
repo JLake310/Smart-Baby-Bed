@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625814323479",
+    "firebase_url": "https://smartbabybed-c51b5-default-rtdb.firebaseio.com",
+    "project_id": "smartbabybed-c51b5",
+    "storage_bucket": "smartbabybed-c51b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625814323479:android:98acd1fdb86ca1eac1b752",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625814323479-guncseo4tm160plnpgsq01ltq748mgg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0hgjGZItucSitNsED9_4cF3XLbOLJ6G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625814323479-guncseo4tm160plnpgsq01ltq748mgg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
